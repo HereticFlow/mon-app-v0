@@ -1,0 +1,12 @@
+{
+  "name": "mon-app-v0",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "v0 dev",
+    "build": "v0 build",
+    "start": "v0 start"
+  },
+  "dependencies": {
+    "@v0/dev": "latest"
+  }
+}
